@@ -1,1 +1,1 @@
-Project #1 of 50 Javascript projects #ExpandingCards
+Project #2 of 50 Javascript projects ProgressSteps
